@@ -1,4 +1,4 @@
-# project-api
+# project-lab
 
 All project related rule where extracted to this project from [business-base](https://github.com/cassunde/business-base).
 
